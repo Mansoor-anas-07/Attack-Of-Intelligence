@@ -76,7 +76,7 @@ Whether the customer has churned (binary target variable: 1 for churned, 0 for a
  ## Step 1:
   Clone the Repository
 Clone the project repository from GitHub:
-git clone https://github.com/[Group_Name]/Retail_Customer_Churn_Analysis.git
+git clone https://github.com/Mansoor-anas-07/Attack-Of-Intelligence
 
 ## Step 2: 
 Install Required Libraries
