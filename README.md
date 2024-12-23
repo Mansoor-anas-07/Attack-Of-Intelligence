@@ -43,7 +43,7 @@ Customer churn refers to the loss of customers who stop using a company's servic
 - **Imbalanced-learn** - For handling class imbalance using techniques like SMOTE.
 
 
-## Data source
+## Data sources
 
 1.Customer Demographics:
 
